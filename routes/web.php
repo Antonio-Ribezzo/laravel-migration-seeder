@@ -2,6 +2,9 @@
 
 use Illuminate\Support\Facades\Route;
 
+use App\Http\Controllers\TrainController;
+
+
 /*
 |--------------------------------------------------------------------------
 | Web Routes
